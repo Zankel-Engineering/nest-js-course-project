@@ -1,4 +1,4 @@
-# nest-js-course-project
+# NestJS Fundamentals Course https://courses.nestjs.com/
 
 In this course we'll be building a small REST API application - that's all about Coffee ☕️
 
